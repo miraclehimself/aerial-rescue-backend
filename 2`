@@ -1,0 +1,42 @@
+Collecting package metadata (current_repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: C:\Users\Ayobami\anaconda3\envs\new-mask-tut
+
+  added / updated specs:
+    - mistune
+    - nbconvert
+
+
+The following packages will be downloaded:
+
+    package                    |            build
+    ---------------------------|-----------------
+    mistune-0.8.4              |  pyh1a96a4e_1006          47 KB  conda-forge
+    nbconvert-6.4.5            |   py37h03978a9_0         579 KB  conda-forge
+    ------------------------------------------------------------
+                                           Total:         625 KB
+
+The following packages will be UPDATED:
+
+  mistune            pkgs/main/win-64::mistune-0.8.4-py37h~ --> conda-forge/noarch::mistune-0.8.4-pyh1a96a4e_1006 
+  nbconvert               pkgs/main::nbconvert-5.4.1-py37_3 --> conda-forge::nbconvert-6.4.5-py37h03978a9_0 
+
+
+Proceed ([y]/n)? 
+
+Downloading and Extracting Packages
+mistune-0.8.4        | 47 KB     |            |   0% 
+nbconvert-6.4.5      | 579 KB    |            |   0% [A
+nbconvert-6.4.5      | 579 KB    | 2          |   3% [Amistune-0.8.4        | 47 KB     | ###4       |  34% mistune-0.8.4        | 47 KB     | ########## | 100% 
+nbconvert-6.4.5      | 579 KB    | 8          |   8% [A
+nbconvert-6.4.5      | 579 KB    | #6         |  17% [A
+nbconvert-6.4.5      | 579 KB    | #9         |  19% [A
+nbconvert-6.4.5      | 579 KB    | ##4        |  25% [A
+nbconvert-6.4.5      | 579 KB    | ###3       |  33% [A
+nbconvert-6.4.5      | 579 KB    | ####1      |  41% [A
+nbconvert-6.4.5      | 579 KB    | #####8     |  58% [A
+nbconvert-6.4.5      | 579 KB    | ######9    |  69% [A
+                                                     [A                                                     Terminate batch job (Y/N)? 

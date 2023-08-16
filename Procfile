@@ -1,0 +1,1 @@
+web: gunicorn aerial.wsgi --log-file -
